@@ -10,6 +10,12 @@ Este proyecto corresponde al **Hito 2** del curso de desarrollo frontend. Su obj
 
 ---
 
+## 💻 Vista Previa y Despliegue (Preview)
+Puedes visualizar la aplicación en funcionamiento directamente desde el siguiente enlace de despliegue en GitHub Pages:
+🔗 Pizzería Mamma Mía - Hito 2 en Vivo
+
+---
+
 ## ✨ Características Principales
 
 * **Formulario de Registro (`Register.jsx`):**
