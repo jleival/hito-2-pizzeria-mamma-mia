@@ -68,10 +68,11 @@ npm run dev
 
 ---
 
-## 💻 Vista Previa / Preview
+## 💻 Vista Previa / Preview
 🔹 Vista de Login
 Validación de campos obligatorios y control de seguridad en contraseñas.
 
+<br>
 
 🔹 Vista de Registro
 Control de coincidencia de contraseñas y mensajes de alerta.
@@ -102,7 +103,7 @@ src/
 
 ---
 
-## 👤 Autor
+## 👤 Autor
 Jorge Alfredo Leiva López
 
 GitHub: @jleival
