@@ -53,7 +53,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [[https://github.com/jleival/hito-2-pizzeria-mamma-mia.git]
+   git clone [https://github.com/jleival/hito-2-pizzeria-mamma-mia.git]
 
 2. Entrar al directorio del proyecto:
 cd hito-2-pizzeria-mamma-mia
